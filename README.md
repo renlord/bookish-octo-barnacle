@@ -1,4 +1,4 @@
-
+Paper: https://arxiv.org/abs/1905.00553
 
 ```python
 """How the plots are generated:
